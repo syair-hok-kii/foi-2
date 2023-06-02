@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-hok-kii.github.io/foi-2/sitemap.xml
